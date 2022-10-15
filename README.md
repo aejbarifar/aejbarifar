@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java Basics**
-
 - 📫 How to reach me **aejbarifar@gmail.com**
 
-- ⚡ Fun fact **I like sleep a lot**
+- ⚡ I like **Chilling and Reading**
 
 
 <h3 align="left">Languages and Tools:</h3>
