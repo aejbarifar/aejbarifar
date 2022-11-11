@@ -5,7 +5,7 @@
 <img align="right" width="300" height="300" src="https://thumbs.gfycat.com/SelfishNippyFirefly-max-1mb.gif">
 
 
-- 🔭 I’m currently working on nothing [**Yoga Marh**](https://github.com/aejbarifar/YogaMat.git)
+- 🔭 I’m currently working on nothing [**YogaMat**](https://github.com/aejbarifar/YogaMat.git)
 
 - 🌱 I’m currently learning **Java**
 
