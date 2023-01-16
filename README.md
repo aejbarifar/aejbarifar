@@ -3,6 +3,7 @@
 <h3 align="center">A passionate web development student from Spain</h3>
 
 <img align="right" width="300" height="300" src="https://thumbs.gfycat.com/SelfishNippyFirefly-max-1mb.gif">
+</p>
 
 
 - 🔭 I’m currently working on [**Gestión De Grupos**](https://github.com/aejbarifar/GestionDeGrupos)
